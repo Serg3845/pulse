@@ -4,4 +4,9 @@
     font-weight: 700;
     text-align: center;
     text-transform: uppercase;
+    &_left {
+        font-size: 30px;
+        color: white;
+        text-align: left;
+    }
 }
